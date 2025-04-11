@@ -1,2 +1,2 @@
 # ARCFO
-This is the official repo for "ARCFO: Adaptive Rating Criteria Feedback Optimization for Essay Scoring with LLMs". 
+This is the official repository for "ARCFO: Adaptive Rating Criteria Feedback Optimization for Essay Scoring with LLMs". This repository contains the implementation of the Adaptive Rating Criteria Feedback Optimization (ARCFO) framework, a novel methodology for enhancing the alignment between LLM-generated essay ratings and human evaluations through dynamic criteria refinement. The framework addresses the critical challenge of subjective and ambiguous rating criteria in automated essay scoring systems.
