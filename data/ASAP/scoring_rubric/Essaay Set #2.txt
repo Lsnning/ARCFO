@@ -1,0 +1,35 @@
+Score Point 6: Exceptional Performance
+1.Content: Fully captures the topic with profound, detailed insights and highly convincing arguments.
+2.Organization: Demonstrates crystal-clear logical progression with seamless transitions and powerful introduction and conclusion.
+3.Style: Exhibits sophisticated vocabulary, diverse sentence structures, and vivid expressive techniques.
+4.Voice: Displays appropriate tone, unique perspective, and strong audience engagement.
+
+Score Point 5: Strong Performance
+1.Content: Accurately addresses the topic with clear viewpoints and substantial supporting evidence.
+2.Organization: Presents logical structure with smooth transitions and coherent overall composition.
+3.Style: Uses precise vocabulary, varied sentence patterns, and clear expression.
+4.Voice: Maintains appropriate tone and demonstrates some distinctive perspective.
+
+Score Point 4: Good Performance
+1.Content: Basically captures the topic with clear main points and fundamental supporting arguments.
+2.Organization: Shows reasonably logical progression with basic structural coherence.
+3.Style: Employs generally accurate vocabulary and some sentence variety.
+4.Voice: Demonstrates a relatively consistent tone with minimal personal style.
+
+Score Point 3: Basic Performance
+1.Content: Marginally addresses the topic with simple viewpoints and limited evidence.
+2.Organization: Presents basic and sometimes unclear logical structure.
+3.Style: Uses limited vocabulary and repetitive sentence structures.
+4.Voice: Exhibits inconsistent tone with little personal character.
+
+Score Point 2: Partial Accomplishment
+1.Content: Fails to fully capture the topic with unclear arguments and minimal evidence.
+2.Organization: Demonstrates confused or fragmented logical progression.
+3.Style: Uses very limited vocabulary and simplistic expression.
+4.Voice: Shows inappropriate tone and lack of personal perspective.
+
+Score Point 1: Unsatisfactory Performance
+1.Content: Completely misses the topic with no discernible arguments or evidence.
+2.Organization: Lacks any logical structure or coherence.
+3.Style: Demonstrates extremely poor language use and expression.
+4.Voice: Displays completely inappropriate tone with no personal style.

@@ -1,0 +1,29 @@
+A rating of 1-6 on the following four traits:
+1.Ideas and Content
+    Score 6: Writing is exceptionally clear, focused, and engaging. Main ideas stand out with rich, appropriate supporting details. Content perfectly matches purpose, demonstrating deep insights.
+    Score 5: Writing is clear, focused, and interesting. Main ideas are distinct with appropriate supporting details. Content aligns with purpose, showing thoughtful exploration.
+    Score 4: Writing is clear with easily understood main ideas. Supporting details are present but may be somewhat general.
+    Score 3: Main ideas are comprehensible but potentially broad or simplistic. Supporting details are limited and underdeveloped.
+    Score 2: Main ideas and purpose are unclear, with minimal development.
+    Score 1: Lacks a central idea, with extremely limited development.
+2.Organization
+    Score 6: Organizational structure brilliantly supports central idea, with creative and smooth logical flow.
+    Score 5: Organizational structure supports central idea, with clear and logical progression.
+    Score 4: Organization is clear but potentially formulaic.
+    Score 3: Organizational structure exists but lacks coherence and completeness.
+    Score 2: Organizational structure is unclear and difficult to follow.
+    Score 1: Organization is chaotic and lacks coherence.
+3.Sentence Fluency
+    Score 6: Sentence structures are varied, rhythmic, and highly expressive.
+    Score 5: Sentence structures are reasonably varied and smooth.
+    Score 4: Sentences are basically fluid but lack rich variation.
+    Score 3: Sentence structures are mechanical and somewhat rigid.
+    Score 2: Sentence structures are monotonous and unsmooth.
+    Score 1: Sentence structures are confusing and difficult to understand.
+4.Conventions
+    Score 6: Language conventions are precise with almost no errors.
+    Score 5: Language conventions are strong with very few errors.
+    Score 4: Language conventions are basically correct, with minor errors that don't impede understanding.
+    Score 3: Language conventions are limited, with errors beginning to affect readability.
+    Score 2: Language conventions are poor, with frequent errors.
+    Score 1: Language conventions are extremely weak, with numerous errors severely impacting readability.

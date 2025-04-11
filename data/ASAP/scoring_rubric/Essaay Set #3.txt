@@ -1,0 +1,13 @@
+Score 3: The response demonstrates an understanding of the complexities of the text.
+    (1) Addresses the demands of the question.
+    (2) Uses expressed and implied information from the text.
+    (3) Clarifies and extends understanding beyond the literal.
+Score 2: The response demonstrates a partial or literal understanding of the text.
+    (1) Addresses the demands of the question, although may not develop all parts equally.
+    (2) Uses some expressed or implied information from the text to demonstrate understanding.
+    (3) May not fully connect the support to a conclusion or assertion made about the text(s).
+Score 1: The response shows evidence of a minimal understanding of the text.
+    (1) May show evidence that some meaning has been derived from the text.
+    (2) May indicate a misreading of the text or the question.
+    (3) May lack information or explanation to support an understanding of the text in relation to the question.
+Score 0: The response is completely irrelevant or incorrect, or there is no response.
